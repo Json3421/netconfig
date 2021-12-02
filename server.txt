@@ -1,0 +1,2 @@
+server:"wewe.zhangyida0.cn","wewe.9kbta7.com"
+makeserver:"ht.3dj4kh.com","ht.gamereview.cn"
